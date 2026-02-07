@@ -1,16 +1,9 @@
-<h1 align = "center">BD Travel Website</h1>
+<h1 align = "center">Vacation vibes Website</h1>
 <h3 align="center"> Responsive Traveling Website using HTML, CSS</h3>
 
 For more Website Follow Me ➡️ [GitHub](https://github.com/abdul-alim-0) | [LinkedIn](https://www.linkedin.com/in/abdulalim01/)<br><br>
 
 <h1 align="center"> Website Preview </h1>
-
-### For Live Overview ➡️ [BD Travel Website](https://abdul-alim-0.github.io/Responsive-Travel-Website/)<br>
-
-<img src="./website img/Screenshot 2024-08-06 203013.png" width="900">
-<img src="./website img/Screenshot 2024-08-06 203033.png" width="900">
-<img src="./website img/Screenshot 2024-08-06 203110.png" width="900">
-<img src="./website img/Screenshot 2024-08-06 203130.png" width="900">
 
 ## Features 📋
 
