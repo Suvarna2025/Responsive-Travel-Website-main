@@ -1,7 +1,6 @@
 <h1 align = "center">Vacation vibes Website</h1>
 <h3 align="center"> Responsive Traveling Website using HTML, CSS</h3>
 
-For more Website Follow Me ➡️ [GitHub](https://github.com/abdul-alim-0) | [LinkedIn](https://www.linkedin.com/in/abdulalim01/)<br><br>
 
 <h1 align="center"> Website Preview </h1>
 
